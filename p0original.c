@@ -10,5 +10,5 @@ printf("enter two integers:");
 scanf("%d %d",&a,&b);
 sum=add(a,b);
 printf("sum of two integers:%d",sum);
-
+return 0;
 }
