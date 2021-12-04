@@ -1,6 +1,5 @@
 #include<stdio.h>
-int main()
-{
-printf("shivaraj chatti");
-return 0;
+int add(int a, int b)
+{int c;
+c=a+b;
 }
