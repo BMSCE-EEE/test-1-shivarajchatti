@@ -6,9 +6,9 @@ return c;
 }
 int main()
 {int a, b ,sum;
-printf("enter two integers:");
+printf("enter two integers:\n");
 scanf("%d %d",&a,&b);
 sum=add(a,b);
-printf("sum of two integers:%d",sum);
+printf("sum of two integers:%d\n",sum);
 return 0;
 }
